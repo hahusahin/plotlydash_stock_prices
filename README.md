@@ -1,9 +1,10 @@
 # STOCK PRICES DASHBOARD CREATED BY PLOTLY DASH
 
-![Stock Price](https://plotly-dash-stockprice-app.herokuapp.com/)
+![Stock Price](https://github.com/hhsmobileapps/plotlydash_stock_prices/blob/master/snapshot.jpg)
 
 ### Goal
 The goal of this study is to create an interactive web dashboard app of some well-known companies' stock prices using the Plotly Dash.
+Here is the link : https://plotly-dash-stockprice-app.herokuapp.com/
 
 ### Data Description
 The data is dynamic, i.e. is fetched from web by using the pandas-datareader library when you run the code.
